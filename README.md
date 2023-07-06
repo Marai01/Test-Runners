@@ -1,2 +1,2 @@
 # Test-Runners
-Test Runners game in Unity
+Import the Unity Test Runner.exe on your computer and start it up.
