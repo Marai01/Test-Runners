@@ -1,2 +1,2 @@
 # Test-Runners
-Import the Unity Test Runner.exe on your computer and start it up.
+Import the Versie2.zO1 on your computer and start up the Test Runner.exe file and you can play.
